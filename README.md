@@ -47,7 +47,9 @@ Transform data in Power Query
 
 ## 4. Power BI Dashboard
 
-![](截屏2024-01-29%2017.38.26.png)
+<img width="1155" alt="截屏2024-01-29 17 38 26" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-1-Call-Center-Trend/assets/67852322/e65270c7-4771-4d06-ab19-de1f91f22b60">
+
+<img width="1156" alt="截屏2024-01-29 17 38 38" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-1-Call-Center-Trend/assets/67852322/f904daa9-9340-480f-aa7a-c9e549cd8e54">
 
 
 ## 5. Insights
