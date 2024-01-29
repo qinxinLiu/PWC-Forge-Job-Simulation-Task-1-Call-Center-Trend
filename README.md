@@ -47,5 +47,7 @@ Transform data in Power Query
 
 ## 4. Power BI Dashboard
 
+![](截屏2024-01-29%2017.38.26.png)
+
 
 ## 5. Insights
