@@ -53,3 +53,7 @@ Transform data in Power Query
 
 
 ## 5. Insights
+
+**CUSTOMER SATISFACTION**
+
+**AGENT PERFORMANCE**
