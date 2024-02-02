@@ -55,5 +55,13 @@ Transform data in Power Query
 ## 5. Insights
 
 **CUSTOMER SATISFACTION**
+- 40.46% of customers were satisfied with the calls by rating at 4 or 5, the average rating is at 2.76.
+- The most common topics that customers called for were Streaming, Technical Support, and Payment related problems.
+- Performance rating had been decreased from January to March.
+- The majority of calls come in the morning.
+- Overall, the Streaming topic had the highest rating.
+- The number of abandoned calls had a downward trend for three months
+- The call volume peaked on Monday and Saturday
 
 **AGENT PERFORMANCE**
+- Average speed of answering calls increased from January to March
