@@ -62,6 +62,10 @@ Transform data in Power Query
 - Overall, the Streaming topic had the highest rating.
 - The number of abandoned calls had a downward trend for three months
 - The call volume peaked on Monday and Saturday
+- January had the largest percentage of issues handled, while February saw a decrease. In March, it went up once again.
 
 **AGENT PERFORMANCE**
 - Average speed of answering calls increased from January to March
+- The number of unresolved calls gradually decrease over the three months.
+- Becky has the best performance on answering `Streaming` and `Payment` related questions, Jim performs the best on`Admin` and `Contract` related questions while Dan perform the best on `Technical Support` .
+- Becky also has the fastest average speed of answer among all and Marsha has the highest customer rating.
